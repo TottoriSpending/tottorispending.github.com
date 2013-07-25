@@ -20,6 +20,18 @@ OpenSpending.Styles.Cofog = {
   /* tottori cofog */
   '1': { icon: 'icons/government.svg', color: '#C75746', bcolor: '#935B3B' },
   '1-1': { icon: 'icons/government.svg', color: '#C75746', bcolor: '#935B3B' },
+  '2': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#0AB971' },
+  '2-1': { icon: 'icons/human-resources.svg', color: '#C75746', bcolor: '#0AB971' },
+  '2-2': { icon: 'icons/planning.svg', color: '#C75746', bcolor: '#0AB971' },
+  '2-3': { icon: 'icons/dollar.svg', color: '#C75746', bcolor: '#0AB971' },
+  '2-4': { icon: 'icons/dollar.svg', color: '#C75746', bcolor: '#0AB971' },
+  '2-5': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#0AB971' },
+  '2-6': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#0AB971' },
+  '2-7': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#0AB971' },
+  '2-8': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#0AB971' },
+  '2-9': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#0AB971' },
+  '2-10': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#0AB971' }
+  
 };
 
 
