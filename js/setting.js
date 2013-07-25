@@ -40,8 +40,19 @@ OpenSpending.Styles.Cofog = {
   '4-1': { icon: 'icons/health.svg', color: '#C75746', bcolor: '#D33673' },
   '4-2': { icon: 'icons/environment.svg', color: '#C75746', bcolor: '#D33673' },
   '4-3': { icon: 'icons/health.svg', color: '#C75746', bcolor: '#D33673' },
-  '4-4': { icon: 'icons/medical-supplies.svg', color: '#C75746', bcolor: '#D33673' }
-  
+  '4-4': { icon: 'icons/medical-supplies.svg', color: '#C75746', bcolor: '#D33673' },
+  '5': { icon: 'icons/labour.svg', color: '#C75746', bcolor: '#2A3A03' },
+  '5-1': { icon: 'icons/labour.svg', color: '#C75746', bcolor: '#2A3A03'  },
+  '5-2': { icon: 'icons/labour.svg', color: '#C75746', bcolor: '#2A3A03'  },
+  '5-3': { icon: 'icons/labour.svg', color: '#C75746', bcolor: '#2A3A03'  },
+  '6': { icon: 'icons/farms.svg', color: '#C75746', bcolor: '#EC2406' },
+  '6-1': { icon: 'icons/farms.svg', color: '#C75746', bcolor: '#EC2406' },
+  '6-2': { icon: 'icons/farms.svg', color: '#C75746', bcolor: '#EC2406' },
+  '6-3': { icon: 'icons/farms.svg', color: '#C75746', bcolor: '#EC2406' },
+  '6-4': { icon: 'icons/forest.svg', color: '#C75746', bcolor: '#EC2406' },
+  '6-5': { icon: 'icons/fishing.svg', color: '#C75746', bcolor: '#EC2406' },
+  '7': { icon: 'icons/coal.svg', color: '#C75746', bcolor: '#938626' },
+  '7-1': { icon: 'icons/coal.svg', color: '#C75746', bcolor: '#938626' },
+  '7-2': { icon: 'icons/coal.svg', color: '#C75746', bcolor: '#938626' },
+  '7-3': { icon: 'icons/coal.svg', color: '#C75746', bcolor: '#938626' }
 };
-
-
