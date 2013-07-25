@@ -11,7 +11,7 @@ Taxes.taxRate = 0.04; // 住民税率(県民税のため)
 var OpenSpending = OpenSpending || {};
 
 OpenSpending.identifier = 'tottoriken_2013_budget';
-OpenSpending.year = '2012';
+OpenSpending.year = '2013';
 
 OpenSpending.Styles = OpenSpending.Styles || {};
 
