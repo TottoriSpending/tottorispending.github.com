@@ -18,8 +18,8 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 OpenSpending.Styles.Cofog = {
 
   /* tottori cofog */
-  '1': { icon: 'icons/government.svg', color: '#C75746' },
-  '1-1': { icon: 'icons/government.svg', color: '#C75746' },
+  '1': { icon: 'icons/civilian-action.svg', color: '#C75746' },
+  '1-1': { icon: 'icons/civilian-action.svg', color: '#C75746' },
   '2': { icon: 'icons/publicaffairs.svg', color: '#C75746' },
   '2-1': { icon: 'icons/human-resources.svg', color: '#C75746' },
   '2-2': { icon: 'icons/planning.svg', color: '#C75746' },
